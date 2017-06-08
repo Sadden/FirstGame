@@ -1,3 +1,10 @@
+
+then, every time updated, we should directly replace "data" folder, and copy "faces" and "sv_actors" to "X:\\GameMenu\\img\\faces" and "X:\\GameMenu\\img\\sv_actors"
+
+...............................................
+
+
+2017/6/8..........Sadden..........................
 New BGM:(please load the audio files in to the bgm forder)
 03_Childhood_Memories
 03_Deserted_Mansion
