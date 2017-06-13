@@ -1,5 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"LinkBattle","characterIndex":0,"characterName":"Linx","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Linx","traits":[],"initialLevel":1,"maxLevel":99,"name":"Linx","nickname":"灵克斯 亨特","note":"","profile":"村里的猎人世家，亨特家的独子。喜欢狩猎"},
-{"id":2,"battlerName":"GrandmaBattle","characterIndex":0,"characterName":"GrandmaMove","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Grandma","traits":[{"code":43,"dataId":50,"value":1}],"initialLevel":40,"maxLevel":99,"name":"阿布斯 安珀","nickname":"阿布斯 安珀","note":"","profile":"阿布斯 安珀是清泉镇最强大的魔法师，也是一位和蔼的村长"}
+{"id":1,"battlerName":"LinkBattle","characterIndex":0,"characterName":"Linx","classId":1,"equips":[1,1,2,3,0,0],"faceIndex":0,"faceName":"Linx","traits":[],"initialLevel":1,"maxLevel":99,"name":"Linx","nickname":"灵克斯 亨特","note":"","profile":"村里的猎人世家，亨特家的独子。喜欢狩猎"},
+{"id":2,"battlerName":"GrandmaBattle","characterIndex":0,"characterName":"GrandmaMove","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Grandma","traits":[{"code":43,"dataId":50,"value":1}],"initialLevel":40,"maxLevel":99,"name":"阿布斯 安珀","nickname":"阿布斯 安珀","note":"","profile":"阿布斯 安珀是清泉镇最强大的魔法师，也是一位和蔼的村长"},
+{"id":3,"battlerName":"IssacBattle","characterIndex":0,"characterName":"IssacMove","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Issac","traits":[],"initialLevel":4,"maxLevel":99,"name":"艾萨克 安珀","nickname":"艾萨克 安珀","note":"","profile":"村长家的长孙，母亲死后一直想要变强守护家人。"},
+{"id":4,"battlerName":"BaremBattle","characterIndex":0,"characterName":"BaremMove","classId":6,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Barem","traits":[],"initialLevel":3,"maxLevel":99,"name":"巴雷姆 盖茨","nickname":"巴雷姆 盖茨","note":"","profile":""}
 ]
